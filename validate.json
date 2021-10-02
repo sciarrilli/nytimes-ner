@@ -1,0 +1,26 @@
+{
+  "source": "Democratic leaders insisted they had moved closer together and still had plenty of time to resolve their differences over the bigger bill and deliver on the president’s promises.",
+  "nytimes-job": {
+    "annotations": {
+      "labels": [
+        { "label": "PERSON", "shortDisplayName": "PER" },
+        { "label": "ORGANIZATION", "shortDisplayName": "ORG" },
+        { "label": "LOCATION", "shortDisplayName": "LOC" },
+        { "label": "MISCELLANEOUS", "shortDisplayName": "MIS" },
+        { "label": "O", "shortDisplayName": "O" }
+      ],
+      "entities": [
+        { "label": "ORGANIZATION", "startOffset": 0, "endOffset": 10 },
+        { "label": "MISCELLANEOUS", "startOffset": 11, "endOffset": 18 },
+        { "label": "PERSON", "startOffset": 157, "endOffset": 166 }
+      ]
+    }
+  },
+  "nytimes-job-metadata": {
+    "job-name": "labeling-job/nytimes-job",
+    "type": "groundtruth/text-span",
+    "creation-date": "2021-10-02T02:24:06.136137",
+    "human-annotated": "yes",
+    "entities": [{ "confidence": 0 }, { "confidence": 0 }, { "confidence": 0 }]
+  }
+}
